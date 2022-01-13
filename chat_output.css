@@ -1,0 +1,27 @@
+/* Codeblock text size and font */
+code {
+    font-size: 16px !important;
+    font-family: var(--font-code);
+}
+
+/* Chat text size */
+.markup-eYLPri {
+    font-size: 16px !important;
+}
+
+/* Custom {edited} message text */
+.messageContent-2t3eCI {
+    font-size: 14px;
+    font-weight: 500;
+}
+.cozy-VmLDNB:hover {
+    background-color: rgba(255, 255, 255, 0.068) !important;
+}
+.edited-1v5nT8 {
+    font-size: 0;
+}
+.edited-1v5nT8::before {
+    font-size: 14px;
+    content: var(--custom-label-edited);
+}
+

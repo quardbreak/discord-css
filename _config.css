@@ -1,0 +1,143 @@
+:root {
+/* Small unsorted things */
+    --custom-label-edited: "✏️";
+	--custom-avatar-border-radius: 5px;
+
+
+/* -- Horizontal Server List settings -- */
+
+    /* Size of the server icons | DEFAULT: 40px */
+    --HSL-server-icon-size: 35px;
+    /* Spacing between each server icon | DEFAULT: 10px */
+    --HSL-server-spacing: 10px;
+
+
+/* -- Radial Status settings -- */
+
+    /* Gap between avatar and status for members list/dms | MUST end in px */
+    --rs-small-spacing: 2px;
+    /* Gap between avatar and status for User popout | MUST end in px */
+    --rs-medium-spacing: 3px;
+    /* Gap between avatar and status for User profiles | MUST end in px */
+    --rs-large-spacing: 4px;
+
+    /* Thickness of status border for members list/dms | MUST end in px */
+    --rs-small-width: 2px;
+    /* Thickness of status border for User popout | MUST end in px */
+    --rs-medium-width: 3px;
+    /* Thickness of status border for User profile | MUST end in px */
+    --rs-large-width: 4px;
+
+    /* 50% for round - 0% for square */
+    --rs-avatar-shape: 0%;
+
+    /* Colour for online status */
+    --rs-online-color: #43b581;
+    /* Colour for idle status */
+    --rs-idle-color: #faa61a;
+    /* Colour for dnd status */
+    --rs-dnd-color: #f04747;
+    /* Colour for offline status */
+    --rs-offline-color: #636b75;
+    /* Colour for streaming status */
+    --rs-streaming-color: #643da7;
+    /* Colour for invisible status - Note: this will only show for your own invisibility */
+    --rs-invisible-color: #747f8d;
+    /* Colour of the ring and phone icon when a user is on their phone */
+    --rs-phone-color: var(--rs-online-color); 
+
+    /* Visibility of the phone icon next to a users avatar. | block = visible | none = hidden */
+    --rs-phone-visible: block;
+
+
+/* -- Font settings -- */
+
+    /* 'Fixedsys Excelsior 3.01' */
+    --font-override: none;
+
+    --font-primary: var(--font-override),
+        Whitney,
+        "Helvetica Neue",
+        Helvetica,Arial,
+        sans-serif;
+
+    --font-display: var(--font-override),
+        Ginto,
+        "Helvetica Neue",
+        Helvetica,Arial,
+        sans-serif;
+
+    --font-code: var(--font-override),
+        Consolas,
+        "Andale Mono WT",
+        "Andale Mono",
+        "Lucida Console",
+        "Lucida Sans Typewriter",
+        "DejaVu Sans Mono",
+        "Bitstream Vera Sans Mono",
+        "Liberation Mono",
+        "Nimbus Mono L",
+        Monaco,
+        "Courier New",
+        Courier,monospace;
+
+    --font-headline: var(--font-override),
+        Ginto Nord,
+        Ginto,
+        "Helvetica Neue",
+        Helvetica,Arial,
+        sans-serif;
+
+    --font-korean: var(--font-override),
+        Whitney,
+        "Apple SD Gothic Neo",
+        "NanumBarunGothic",
+        "맑은 고딕",
+        "Malgun Gothic",
+        Gulim,
+        굴림,
+        Dotum,
+        돋움,
+        "Helvetica Neue",
+        Helvetica,
+        Arial,
+        sans-serif;
+
+    --font-japanese: var(--font-override),
+        Whitney,
+        Hiragino Sans,
+        "ヒラギノ角ゴ ProN W3",
+        "Hiragino Kaku Gothic ProN",
+        "メイリオ",Meiryo,Osaka,
+        "MS PGothic",
+        "Helvetica Neue",
+        Helvetica,
+        Arial,
+        sans-serif;
+
+    --font-chinese-simplified: var(--font-override),
+        Whitney,
+        "Microsoft YaHei New",
+        微软雅黑,
+        "Microsoft Yahei",
+        "Microsoft JhengHei",
+        宋体,
+        SimSun,
+        "Helvetica Neue",
+        Helvetica,
+        Arial,
+        sans-serif;
+
+    --font-chinese-traditional: var(--font-override),
+        Whitney,
+        "Microsoft JhengHei",
+        微軟正黑體,
+        "Microsoft JhengHei UI",
+        "Microsoft YaHei",
+        微軟雅黑,宋体,
+        SimSun,
+        "Helvetica Neue",
+        Helvetica,
+        Arial,
+        sans-serif;
+}

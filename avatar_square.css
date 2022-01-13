@@ -1,0 +1,71 @@
+/* Server avatar custom border radius */
+.wrapper-28eC3z foreignObject {
+    mask: unset;
+    border-radius: var(--custom-avatar-border-radius) !important;
+}
+.folderIconWrapper-1oRIZr {
+    border-radius: var(--custom-avatar-border-radius) !important;
+}
+
+/* User avatar custom border radius + profile redesign */
+.roleCircle-1EgnFN {
+    border-radius: 2px;
+}
+.avatarWrapper-eenWra .mask-1FEkla {
+    overflow: visible;
+}
+.headerTagDiscriminatorNoNickname-dfcvHa {
+    color: #fff;
+    margin-left: 3px;
+}
+.colorLink-2apWfY {
+    color: #fff;
+}
+.colorLink-2apWfY:hover {
+    color: rgba(255, 255, 255, 0.822);
+}
+.avatar-2Vndt_ {
+    border-radius: var(--custom-avatar-border-radius);
+}
+.avatarWrapperNormal-ahVUaC {
+    border-radius: var(--custom-avatar-border-radius);
+    margin-left: 6px;
+}
+.avatarWrapper-eenWra .pointerEvents-9SZWKj {
+    x: -12;
+    y: -6;
+    mask: none;
+    pointer-events: none;
+    height: 92px;
+    width: 6px;
+}
+.avatarHint-k7pYop > foreignObject {
+    mask: none;
+}
+.wrapper-1VLyxH foreignObject,
+.callAvatarMask-fiNMWy foreignObject,
+.avatarContainer-gPrCzX foreignObject {
+    mask: none;
+}
+.wrapper-1VLyxH,
+.avatar-2e8lTP,
+.avatarUploaderInner-yEhTv5,
+.voiceAvatar-lRbblo,
+.avatar-3FKimL,
+.border-2BJQjd,
+.avatar-3TrM7c,
+.clickableAvatar-igrb2Y,
+.emptyUser-2FDCJv,
+.avatar-b5OQ1N,
+.wrapper-3mYmFS.ringingIncoming-fibTw-::after,
+.wrapper-3mYmFS.ringingOutgoing-1NjfRn::after,
+.replyAvatar-sHd2sU,
+.avatarSpeaking-33RRJU,
+.avatar-2EVtgZ,
+.avatarContainer-3tBLDx,
+.appAvatar-2_lufo,
+.avatarUploaderHint-2ZdBlc,
+.contentCircle-15IFyT,
+.avatarHint-k7pYop {
+    border-radius: var(--custom-avatar-border-radius) !important;
+}

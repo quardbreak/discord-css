@@ -1,0 +1,23 @@
+/* Searchbar */
+:root .container-ZMc96U.themed-Hp1KC_ .search-39IXmY {
+    order: -1;
+}
+:root .container-ZMc96U.themed-Hp1KC_ .search-39IXmY .search-1FM8Qc:not(.open-3y3yI_) .searchBar-zdmu7v {
+    transition: 250ms;
+    width: 27px;
+    background-color: transparent;
+}
+:root .container-ZMc96U.themed-Hp1KC_ .search-39IXmY .search-1FM8Qc:not(.open-3y3yI_) .searchBar-zdmu7v .iconContainer-1RqWJj {
+    transform: scale(1.4);
+    transition: 300ms;
+}
+:root .container-ZMc96U.themed-Hp1KC_ .search-39IXmY .search-1FM8Qc:not(.open-3y3yI_) .searchBar-zdmu7v .iconContainer-1RqWJj .icon-18rqoe {
+    color: white;
+}
+:root .container-ZMc96U.themed-Hp1KC_ .search-39IXmY .search-1FM8Qc:not(.open-3y3yI_):hover .searchBar-zdmu7v {
+    width: 240px;
+    background-color: var(--background-tertiary);
+}
+:root .container-ZMc96U.themed-Hp1KC_ .search-39IXmY .search-1FM8Qc:not(.open-3y3yI_):hover .searchBar-zdmu7v .iconContainer-1RqWJj {
+    transform: scale(0);
+}

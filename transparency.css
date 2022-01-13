@@ -1,0 +1,125 @@
+/* Transparent upload file background */
+.upload-3GTSF9 {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+/* Transparent call background */
+.wrapper-1gVUIN, .minimum-fXpVNc, .callContainer-HtHELf  {
+    background: none !important;
+    backdrop-filter: blur(20px);
+}
+.root-u9h3Ui, .tile-2TcwiO {
+    background: none;
+}
+.videoGrid-1tZm-F{
+    background: transparent !important;
+}
+.videoControls-353CsJ .gradientTop-1UBZHm, .videoControls-353CsJ .gradientBottom-uB_-4E {
+    display:none;
+}
+
+/* Other transparency things */
+#app-mount .card-2TuZPZ {
+    background: rgba(0, 0, 0, 0.678);
+}
+.searchBoxInput-P0mWHW {
+    background: #000 !important;
+}
+.searchBoxInput-P0mWHW:hover {
+    background: rgba(0, 0, 0, 0.774)!important;
+}
+.blockquoteDivider-363utW {
+    background: rgba(255, 0, 0, 0.548);
+}
+.reaction-2A2y9y {
+    background-color: --background-tertiary;
+}
+.reaction-2A2y9y:hover {
+    background-color: rgba(0, 0, 0, 0.76);
+}
+.list-3V14yy, .list-obNEuP, .header-11eigE {
+    background-color: rgb(0, 0, 0) !important;
+}
+.titleContainer-3fPic2, .stickyHeader-1Sunlx {
+    background: transparent;
+}
+.perksModalContentWrapper-2HU6uL {
+    background-color: rgba(0, 0, 0, 0.932);
+}
+.scroller-3_YDR2 {
+    background-color: transparent;
+}
+#app-mount .scroller-1ox3I2 {
+    background-color: rgba(255, 255, 255, 0);
+}
+#app-mount .card-2EUiNF, .settingCard-xZSDjS, .item-4m-12I {
+    background-color: rgba(255, 255, 255, 0);
+}
+.channelTextArea-1FufC0, .channelTextArea-1FufC0 > .scrollableContainer-15eg7h {
+    backdrop-filter: blur(7px);
+    background-color: rgba(255, 255, 255, 0.034);
+}
+.layers-OrUESM>.layer-86YKbF:first-child{
+    transform: scale(1) !important;
+    opacity: 1 !important;
+}
+.layers-OrUESM>.layer-86YKbF:nth-child(2),.perksModal-fSYqOq{
+    background-color: rgba(0, 0, 0, 0)!important;
+}
+#app-mount .bd-addon-header {
+    background-color: rgb(29, 0, 0);
+}
+#app-mount .bd-description-wrap {
+    background-color: rgb(41, 6, 6);
+}
+#app-mount .bd-footer {
+    background-color: rgb(41, 6, 6);
+}
+#app-mount .bd-search-wrapper {
+    background-color: rgb(41, 6, 6);
+}
+#app-mount .accountList-305sx3 {
+    background-color: rgba(255, 255, 255, 0.233);
+}
+#app-mount .inner-1lPVFp {
+    background-color: rgba(255, 255, 255, 0.185);
+}
+#app-mount .connectionHeader-2rV1ze, .connectionOptionsWrapper-1ipqUo {
+    background-color: rgba(255, 255, 255, 0.342);
+}
+#app-mount .feature-2IUcBI {
+    background-color: rgba(255, 255, 255, 0.233);
+}
+#app-mount .card-2gdrYL {
+    background-color: rgba(255, 255, 255, 0.233);
+}
+#app-mount .paymentPane-ut5qKZ  {
+    background-color: rgba(255, 255, 255, 0.233);
+}
+#app-mount .pageWrapper-2PwDoS {
+    background-color: transparent;
+}
+#app-mount .button-1EGGcP {
+    background-color: rgba(255, 255, 255, 0);
+}
+#app-mount .button-1EGGcP:hover {
+    background-color: rgba(255, 255, 255, 0.144);
+}
+#app-mount .nowPlayingColumn-1eCBCN {
+    background-color: rgba(0, 0, 0, var(--right-brightness));
+}
+#app-mount .nowPlayingColumn-1eCBCN > div {
+    background: transparent;
+}
+#app-mount .members-3WRCEx {
+    background-color: rgba(0, 0, 0, var(--right-brightness));
+}
+#app-mount .members-3WRCEx > div {
+    background: transparent;
+}
+#app-mount .guilds-2JjMmN .scrollerBase-_bVAAt {
+    background-color: rgba(255, 255, 255, 0);
+}
+#app-mount .scroller-1ox3I2 {
+    background-color: rgba(255, 255, 255, 0);
+}

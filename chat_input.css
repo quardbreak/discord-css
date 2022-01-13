@@ -1,0 +1,39 @@
+/* Input message box tweaks */
+#app-mount .buttons-uaqb-5 .sprite-2lxwfc {
+    background-image: url(https://emoji.gg/assets/emoji/3351-bread-carved.png);
+    background-position: center !important;
+    background-size: contain !important;
+}
+:root {
+    --color-brand-lighter: transparent;
+}
+.input-2g-os5, .scrollableContainer-15eg7h {
+    background-color: transparent;
+    transition: background-color 0.2s ease, border-color 0.2s ease;
+    border-radius: unset !important;
+    border: 1px solid transparent;
+    outline: none;
+}
+.input-2g-os5:hover, .scrollableContainer-15eg7h:hover {
+    border-color: #ffffff3f;
+    background-color: #ffffff3f;
+}
+.input-2g-os5:focus-within, .scrollableContainer-15eg7h:focus-within {
+    background-color: rgba(22, 1, 1, 0.267);
+    border-color: var(--color-brand-lighter);
+}
+.scrollableContainer-15eg7h {
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+.form-3gdLxP {
+    padding: unset;
+}
+.chatCounter-XOMPsh {
+    padding-right: 15px;
+}
+
+/* Better Formatting Redux offset change */
+#bfredux {
+    right: 10px;
+}
