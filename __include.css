@@ -7,16 +7,16 @@
 @import url('https://discord-theme-addons.github.io/modern-channel-indicators/src/support/compiled.css');
 
 
-@import url('./_config.css');
-@import url('./avatar_square.css');
-@import url('./bottom_left_settings_button.css');
-@import url('./chat_input.css');
-@import url('./chat_output.css');
-@import url('./context_menu.css');
-@import url('./css_editor.css');
-@import url('./custom_icons.css');
-@import url('./link_colorization.css');
-@import url('./searchbar.css');
-@import url('./server_folders.css');
-@import url('./transparency.css');
-@import url('./unmirror.css');
+@import url('https://quardbreak.github.io/discord-css/_config.css');
+@import url('https://quardbreak.github.io/discord-css/avatar_square.css');
+@import url('https://quardbreak.github.io/discord-css/bottom_left_settings_button.css');
+@import url('https://quardbreak.github.io/discord-css/chat_input.css');
+@import url('https://quardbreak.github.io/discord-css/chat_output.css');
+@import url('https://quardbreak.github.io/discord-css/context_menu.css');
+@import url('https://quardbreak.github.io/discord-css/css_editor.css');
+@import url('https://quardbreak.github.io/discord-css/custom_icons.css');
+@import url('https://quardbreak.github.io/discord-css/link_colorization.css');
+@import url('https://quardbreak.github.io/discord-css/searchbar.css');
+@import url('https://quardbreak.github.io/discord-css/server_folders.css');
+@import url('https://quardbreak.github.io/discord-css/transparency.css');
+@import url('https://quardbreak.github.io/discord-css/unmirror.css');
