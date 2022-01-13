@@ -1,7 +1,7 @@
 :root {
 /* Small unsorted things */
-    --custom-label-edited: "✏️";
-	--custom-avatar-border-radius: 5px;
+    --custom-label-edited: "[edited]";
+    --custom-avatar-border-radius: 5px;
 
 
 /* -- Horizontal Server List settings -- */
