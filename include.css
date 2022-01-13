@@ -1,0 +1,23 @@
+/* Importing dependencies from outside, which can broke one day or cause other unexpected issues */
+
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://discordstyles.github.io/Addons/bottomhsl.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css');
+@import url('https://discord-theme-addons.github.io/modern-channel-indicators/src/support/compiled.css');
+
+
+@import url('https://quardbreak.github.io/discord-css/_config.css');
+
+@import url('https://quardbreak.github.io/discord-css/modules/avatar_square.css');
+@import url('https://quardbreak.github.io/discord-css/modules/bottom_left_settings_button.css');
+@import url('https://quardbreak.github.io/discord-css/modules/chat_input.css');
+@import url('https://quardbreak.github.io/discord-css/modules/chat_output.css');
+@import url('https://quardbreak.github.io/discord-css/modules/context_menu.css');
+@import url('https://quardbreak.github.io/discord-css/modules/css_editor.css');
+@import url('https://quardbreak.github.io/discord-css/modules/custom_icons.css');
+@import url('https://quardbreak.github.io/discord-css/modules/link_colorization.css');
+@import url('https://quardbreak.github.io/discord-css/modules/searchbar.css');
+@import url('https://quardbreak.github.io/discord-css/modules/server_folders.css');
+@import url('https://quardbreak.github.io/discord-css/modules/transparency.css');
+@import url('https://quardbreak.github.io/discord-css/modules/unmirror.css');
